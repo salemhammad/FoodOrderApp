@@ -1,0 +1,113 @@
+[
+  {
+    "name":"شوكةوسكينة",
+    "image":"https://mpng.subpng.com/20190610/zib/kisspng-portable-network-graphics-food-fusion-cuisine-logo-restrokhana-your-online-restaurant-partner-br-5cfe4eadd1c225.5829975215601701578592.jpg",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 9:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 11:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 11:00 PM",
+      "Saturday":"10:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "مشاوي",
+        "price": 40.00,
+        "url": "https://cdn.shopify.com/s/files/1/0306/1592/8963/products/381A1082_720x.jpg?v=1651720324"
+      },
+      {
+        "name": "بينزا سباجتي",
+        "price": 30.0,
+        "url": "https://sharethepasta.org/wp-content/uploads/2018/08/Spaghetti-Crust-Pizza-with-Sausage-and-Peppers-1-700x400.jpg"
+      },
+      {
+        "name": "بيتزا شوكلاطة",
+        "price": 35.0,
+        "url": "https://149366112.v2.pressablecdn.com/wp-content/uploads/2017/08/blah.jpg"
+      },
+      {
+        "name": "اصابع الجبن",
+        "price": 18.0,
+        "url": "https://www.spendwithpennies.com/wp-content/uploads/2013/10/Cheese-Sticks-SpendWithPennies-2-21-500x500.jpg"
+      },
+      {
+        "name": "ساندوش كرسبي دجاج",
+        "price": 22.0,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70461/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "وجبة كرسبي",
+        "price": 30.0,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70463/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "وجبة المنزلية",
+        "price": 27.0,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70465/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "سلطة السيزر",
+        "price": 30.0,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70468/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "كوكي ",
+        "price": 15.0,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70543/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "طبق براوني",
+        "price": 10.0,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70540/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "كشري",
+        "price": 30.0,
+        "url": "https://www.supermama.me/system/App/Models/Recipe/images/000/105/464/watermarked/%D8%A7%D9%84%D9%83%D8%B4%D8%B1%D9%8A-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D8%B2%D9%8A-%D8%A7%D9%84%D9%85%D8%AD%D9%84%D8%A7%D8%AA.jpg"
+      },
+      {
+        "name": "منسف",
+        "price": 28.0,
+        "url": "https://i0.wp.com/www.fwassel.com/wp-content/uploads/2020/06/%D8%A7%D9%84%D8%A3%D9%83%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9.jpg?resize=630%2C400&ssl=1"
+      },
+      {
+        "name": "يلنجي",
+        "price": 40.0,
+        "url": "https://i.ytimg.com/vi/JMxD9x7aJC8/maxresdefault.jpg"
+      },
+      {
+        "name": "برياني دجاج",
+        "price": 25.0,
+        "url": "https://arbfoods.com/wp-content/uploads/2021/10/%D8%A8%D8%B1%D9%8A%D8%A7%D9%86%D9%8A1.jpg"
+      },
+      {
+        "name": "ششبرك",
+        "price": 35.0,
+        "url": "https://d25qnhl20zrf9m.cloudfront.net/wp-content/uploads/2020/06/pp-1129.jpeg"
+      },
+      {
+        "name": "ملوخية",
+        "price": 35.0,
+        "url": "https://i1.wp.com/kintakicook.com/wp-content/uploads/2020/05/6%D9%83.png?resize=656%2C575&ssl=1"
+      },
+      {
+        "name": "دجاج محشي",
+        "price": 40.0,
+        "url": "https://www.justfood.tv/big/0chicken%20griled%20thyme.jpg"
+      },
+      {
+        "name": "مسحب دجاج",
+        "price": 22.0,
+        "url": "https://kitchen.sayidaty.net/uploads/small/89/89a3b79acc9537c332a04d25afd7cc76_w750_h500.jpg"
+      },
+      {
+        "name": "سمك مشوي",
+        "price": 50.0,
+        "url": "https://honnaimg.elwatannews.com/image_archive/841x427/5282004621652343377.jpg"
+      }
+    ]
+  }
+]
